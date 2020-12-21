@@ -1,0 +1,6 @@
+In case you want to use the pretrained model weights.
+
+You can download the 'new_weights.hdf5' file from the link : 
+https://drive.google.com/file/d/1PAkk_7fR6p7l9cNCJaa9g7XHJYrXpjrT/view?usp=sharing
+
+Due to big file it is uploaded on my drive.
